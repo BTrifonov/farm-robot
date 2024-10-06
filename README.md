@@ -25,5 +25,8 @@ A small project for a DIY farm robot
   ## Chasis basis
   - Self-made, use OpenCAD software to model it
 
-  ## Part sources
+  ## Part websites
   - https://pichler.de/Startseite_1
+  - https://www.faulhaber.com/de/
+  - https://www.mouser.de/
+  - https://www.digikey.de/
